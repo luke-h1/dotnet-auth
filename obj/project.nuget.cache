@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "QTtLxsB1NEkAvYNe68Y1Ed5vLAs2gHM+hKwxaSW/8p2Au+XeyImmdiXUPiMI9z9qDtm01N47MOWsNxpzXLox3g==",
+  "success": true,
+  "projectFilePath": "/Users/lukehowsam/srv/dev/dotnet-auth/dotnet-auth.csproj",
+  "expectedPackageFiles": [
+    "/Users/lukehowsam/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/lukehowsam/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/lukehowsam/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/lukehowsam/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/lukehowsam/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/lukehowsam/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
